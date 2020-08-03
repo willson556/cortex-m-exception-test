@@ -1,8 +1,18 @@
-Execute 'mon system_reset'.
+
+xPack 64-bit QEMU v2.8.0-9 (qemu-system-gnuarmeclipse).
+Board: 'STM32F429I-Discovery' (ST Discovery kit for STM32F429/439 lines).
+Device: 'STM32F429ZI' (Cortex-M4 r0p0, MPU, 4 NVIC prio bits, 91 IRQs), Flash: 2048 kB, RAM: 192 kB.
+Command line: 'ExceptionTest' (13 bytes).
+Cortex-M4 r0p0 core initialised.
+GDB Server listening on: 'tcp::1234'...
 Cortex-M4 r0p0 core reset.
 
+... connection accepted from ::1.
+
+Execute 'mon system_reset'.
 PRIGROUP unimplemented
+Cortex-M4 r0p0 core reset.
+
 Hello ARM World!
 System clock: 168000000 Hz
 abort(), exiting...
-Graphic window closed. Quit.
