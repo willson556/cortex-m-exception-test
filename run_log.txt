@@ -1,0 +1,8 @@
+Execute 'mon system_reset'.
+Cortex-M4 r0p0 core reset.
+
+PRIGROUP unimplemented
+Hello ARM World!
+System clock: 168000000 Hz
+abort(), exiting...
+Graphic window closed. Quit.
